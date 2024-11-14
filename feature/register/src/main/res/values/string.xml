@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="feature_register_password_blank">Password cannot be blank</string>
+    <string name="feature_register_too_short">Password is too short</string>
+    <string name="feature_register_no_lowercase">Password must contain at least one lowercase character</string>
+    <string name="feature_register_no_uppercase">Password must contain at least one uppercase character</string>
+    <string name="feature_register_no_digit">Password must contain at least one digit</string>
+    <string name="feature_register_no_special_char">Password must contain at least one special character</string>
+    <string name="feature_register_invalid_format">Email format is invalid</string>
+    <string name="feature_register_email_blank">Email address cannot be blank</string>
+    <string name="feature_register_no_at_symbol">Email address must contain the @ symbol</string>
+    <string name="feature_register_email_too_long">Email address is too long</string>
+    <string name="feature_register_at_start_or_end">The @ symbol cannot be at the start or end of the email address</string>
+    <string name="feature_register_consecutive_periods">Email address cannot contain consecutive periods</string>
+    <string name="feature_register_contains_spaces">Email address cannot contain spaces</string>
+    <string name="feature_register_multiple_at_symbols">Email address cannot contain multiple @ symbols</string>
+    <string name="feature_register_local_part_too_long">Local part of the email address is too long</string>
+    <string name="feature_register_domain_part_too_long">Domain part of the email address is too long</string>
+    <string name="feature_register_illegal_characters">Email address contains illegal characters</string>
+    <string name="feature_register_password_mismatch">Passwords do not match</string>
+    <string name="feature_register_email">Email</string>
+    <string name="feature_register_enter_email">Enter email address</string>
+    <string name="feature_register_hide_password">Hide password</string>
+    <string name="feature_register_show_password">Show Password</string>
+    <string name="feature_register_password">Password</string>
+    <string name="feature_register_enter_password">Enter password</string>
+    <string name="feature_register_register_title">Create an Account :)</string>
+    <string name="feature_register_enter_first_name">Enter first name</string>
+    <string name="feature_register_enter_last_name">Enter last name</string>
+    <string name="feature_register_enter_username">Enter username</string>
+    <string name="feature_register_confirm_password">Confirm password</string>
+    <string name="feature_register_already_have_an_account">Already have an account? Sign in</string>
+    <string name="feature_register_register">Register</string>
+    <string name="feature_register_unknown_error">Unknown error, please try again</string>
+    <string name="feature_register_bad_request">Please make your details meet the requirements</string>
+    <string name="feature_register_connection_error">Connection Error, please try again</string>
+    <string name="feature_register_conflict_error">A user with this email already exists</string>
+</resources>

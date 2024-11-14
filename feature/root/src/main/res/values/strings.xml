@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="feature_root_sign_in">Sign in with existing account</string>
+    <string name="feature_root_register">Register with a new account</string>
+    <string name="feature_root_guest">Continue as guest</string>
+    <string name="feature_root_sign_in_google">Sign In With Google</string>
+</resources>

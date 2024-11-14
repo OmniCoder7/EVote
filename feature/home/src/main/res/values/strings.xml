@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="feature_home_live_voting">Live Voting</string>
+    <string name="feature_home_my_profile">My Profile</string>
+    <string name="feature_home_recent_elections">Recent Elections</string>
+    <string name="feature_home_my_achievements">My Achievements</string>
+</resources>

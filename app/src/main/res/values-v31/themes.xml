@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.EVote.Splash" parent="Theme.SplashScreen">
+        <item name="android:windowSplashScreenBackground">@color/splash_screen</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/splash_anim</item>
+        <item name="windowSplashScreenAnimationDuration">1000</item>
+        <item name="postSplashScreenTheme">@style/Theme.EVote</item>
+    </style>
+</resources>

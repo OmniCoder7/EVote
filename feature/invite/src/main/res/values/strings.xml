@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="feature_invite_accept">Accept</string>
+    <string name="feature_invite_reject">Reject</string>
+    <string name="feature_invite_vote_now">Vote now</string>
+    <string name="feature_invite_starts">Starts</string>
+    <string name="feature_invite_ends">Ends</string>
+    <string name="feature_invite_voter_id">Voter Id</string>
+    <string name="feature_invite_category">Category</string>
+    <string name="feature_invite_support">Support</string>
+</resources>

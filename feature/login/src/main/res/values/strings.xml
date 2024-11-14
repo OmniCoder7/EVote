@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="feature_login_welcome">Welcome</string>
+    <string name="feature_login_enter_email">Enter the Email Address</string>
+    <string name="feature_login_enter_password">Enter the password</string>
+    <string name="feature_login_forgot_password">Forgot Password?</string>
+    <string name="feature_login_register">Don\'t have an account?</string>
+    <string name="feature_login_login">Login</string>
+    <string name="feature_login_toggle_password_visibility">Change visibility of password</string>
+    <string name="feature_login_sign_in_to_continue">Sign in to continue</string>
+</resources>

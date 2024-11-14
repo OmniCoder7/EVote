@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="feature_result_total_votes_cast">Total Votes Cast</string>
+    <string name="feature_result_voter_turnout">Voter Turnout</string>
+    <string name="feature_result_registered_voter">Registered Voters</string>
+    <string name="feature_result_candidate_results">Candidate Results</string>
+</resources>
